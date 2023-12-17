@@ -1,0 +1,44 @@
+
+Student 1: Norhan Reda Abd Elwahed Ahmed
+Student 2: Hoda Gamal Hamouda Ismail
+
+Q1:
+
+the number of words in the dataset
+
+
+Q2:
+
+the dimension of each word embedding vector
+
+
+Predicted Country:
+Egypt
+
+Predicted Similarity:
+0.7626820802688599
+
+Q3:
+
+Yes
+
+
+Q4:
+
+Yes, because it's a high similarity which is 0.7626821 and it is closer to +1, which means that they are similar
+and the predicted country is as expected
+
+
+Computed Accuracy:
+0.9192082407594425
+
+Q5:
+
+Yes
+
+
+Q6:
+
+The related words are closer to each other, such as ('oil', 'gas', 'petroleum') which are from the same category
+and ('city', 'town','village') and ('happy', 'sad','joyful') and ('country', 'continent')
+
